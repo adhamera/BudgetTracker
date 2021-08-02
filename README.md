@@ -5,4 +5,7 @@ The user will be able to add expenses and deposits to their budget with or witho
 # Deployed App
 https://git.heroku.com/evening-mesa-20838.git
 
+![Demo](https://github.com/adhamera/BudgetTracker/blob/main/budgetappdemo.png)
+
 ![Demo](https://github.com/adhamera/BudgetTracker/blob/main/mongoatlas.png)
+
